@@ -16,7 +16,7 @@ Once the data is visualized, it is possible to move to the “Time Domain” win
 
 The following are the adjustable parameters that the algorithm will use:
 
-![Figure 2](/Figure 2.png)
+![Figure 2](https://github.com/vialu/BacAv/Figure_2.png)
 
 - Threshold: Value between 0 and 1 over what the muscle activity has to be in order to be considered a candidate burst.
 - Time before: Window of time (in seconds) before a muscle activity exceeding the threshold.
