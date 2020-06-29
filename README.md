@@ -24,6 +24,10 @@ install.packages(markdown)
 install.packages(rmarkdown)
 <br>
 <br>
+Then Open and run app.R
+<br>
+<br>
+
 
 ### Loading data
 
