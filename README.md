@@ -8,13 +8,22 @@ output: html_document
 This is an “R” base application for tremor analysis. Before using it, you need to install "R" and "rstudio" in your PC. Download and place all the files in the smae folder that is going to be the workspace.
 Then open Rstudio and run the following code (this is to install the packages, only need to be done the first time):
 
+<br>
 install.packages(shiny)
+<br>
 install.packages(scales)
+<br>
 install.packages(ggplot2)
+<br>
 install.packages(plotly)
+<br>
 install.packages(plot.matrix)
+<br>
 install.packages(markdown)
+<br>
 install.packages(rmarkdown)
+<br>
+<br>
 
 ### Loading data
 
