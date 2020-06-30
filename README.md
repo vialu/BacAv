@@ -4,8 +4,7 @@ output: html_document
 ---
 
 # Welcome to BacAv
-
-This is an “R” base application for tremor analysis. Before using it, you need to install "R" and "rstudio" in your PC. Download and place all the files in the smae folder that is going to be the workspace.
+Before using it, you need to install "R" and "rstudio" in your PC. Download and place all the files in the smae folder that is going to be the workspace.
 Then open Rstudio and run the following code (this is to install the packages, only need to be done the first time):
 
 <br>
