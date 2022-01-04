@@ -8,19 +8,19 @@ Before using it, you need to install "R" and "rstudio" in your PC. Download and 
 Then open Rstudio and run the following code (this is to install the packages, only need to be done the first time):
 
 <br>
-install.packages(shiny)
+install.packages("shiny")
 <br>
-install.packages(scales)
+install.packages("scales")
 <br>
-install.packages(ggplot2)
+install.packages("ggplot2")
 <br>
-install.packages(plotly)
+install.packages("plotly")
 <br>
-install.packages(plot.matrix)
+install.packages("plot.matrix")
 <br>
-install.packages(markdown)
+install.packages("markdown")
 <br>
-install.packages(rmarkdown)
+install.packages("rmarkdown")
 <br>
 <br>
 Then Open and run app.R
